@@ -2,78 +2,84 @@
 
 Last updated: May 2026
 
-Welcome to Dentiscope AI. By accessing or using the Dentiscope AI mobile application (“Dentiscope”, “the App”, “we”, “our”, or “us”), you agree to these Terms of Use.
+Welcome to Dentiscope AI. By accessing or using the Dentiscope AI mobile application (“Dentiscope AI”, “Dentiscope”, “the App”, “we”, “our”, or “us”), you agree to be bound by these Terms of Use.
 
-If you do not agree with these Terms, please do not use the application.
+If you do not agree to these Terms, please do not use the application.
 
 ## 1. Educational Purpose Only
 
-Dentiscope AI is designed for educational and informational purposes only.
+Dentiscope AI is intended solely for educational, informational, and reference purposes.
 
 The application is not intended to provide:
 
-* medical diagnosis
-* treatment recommendations
-* emergency guidance
-* professional healthcare decisions
+• Medical diagnosis  
+• Treatment recommendations  
+• Emergency guidance  
+• Professional healthcare decisions  
 
-AI-generated results may not always be accurate.
+AI-generated results may occasionally be inaccurate or incomplete.
 
-Users are responsible for independently verifying information before any clinical, educational, or professional use.
+Users are solely responsible for independently verifying information before relying on any application content in clinical, academic, educational, or professional settings.
 
-## 2. Use of the Application
+## 2. Acceptable Use
 
-You agree to use Dentiscope AI responsibly and lawfully.
+You agree to use Dentiscope AI lawfully, responsibly, and in accordance with these Terms.
 
 You may not:
 
-* misuse or abuse the application
-* attempt unauthorized access to systems or services
-* interfere with app functionality
-* reverse engineer or attempt to extract source code or AI models
-* reproduce, redistribute, resell, or copy app content without permission
+• Misuse or abuse the application  
+• Attempt unauthorized access to systems or services  
+• Interfere with application functionality or infrastructure  
+• Circumvent security or technical protections  
+• Reverse engineer, decompile, copy, extract, or attempt to reproduce application systems, AI models, datasets, or related technologies  
+• Redistribute, resell, sublicense, mirror, or commercially exploit application content without authorization  
 
-## 3. Intellectual Property
+Unauthorized use may result in suspension of access and possible legal action where permitted by applicable law.
 
-Dentiscope AI, including its branding, interface, software, design elements, AI workflows, and related content, is protected by applicable intellectual property laws.
+## 3. Intellectual Property Rights
 
-All rights not expressly granted are reserved by Dentiscope AI.
+Dentiscope AI, including but not limited to its branding, trademarks, interface design, source code, visual assets, AI systems, workflows, educational materials, datasets, and related technologies, is protected by applicable intellectual property and copyright laws.
 
-Unauthorized copying, redistribution, or commercial use is prohibited.
+All rights not expressly granted remain reserved by Dentiscope AI.
 
-## 4. Premium Features and Purchases
+No portion of the application may be copied, reproduced, modified, redistributed, or commercially used without prior written permission.
 
-Certain features may require a premium subscription or purchase.
+## 4. Premium Features and Subscriptions
 
-Premium features, pricing, limits, and availability may change over time without prior notice.
+Certain application features may require a premium subscription or purchase.
 
-Purchases are processed by third-party platform providers such as Google Play or the Apple App Store and may be subject to their policies and refund rules.
+Subscription features, pricing, availability, limitations, and included functionality may change over time without prior notice.
 
-Dentiscope AI does not store payment card information.
+Purchases and billing are processed by third-party platform providers, including Google Play and the Apple App Store, and may be subject to their respective terms, billing policies, and refund rules.
 
-## 5. Availability and Changes
+Dentiscope AI does not directly process or store payment card information.
 
-We may modify, suspend, limit, or discontinue parts of the application at any time.
+## 5. Availability and Service Changes
 
-We do not guarantee uninterrupted availability or error-free operation.
+We may modify, suspend, limit, discontinue, or update parts of the application or related services at any time without prior notice.
+
+We do not guarantee uninterrupted availability, continuous access, or error-free operation.
+
+Temporary outages, maintenance periods, technical issues, or AI-related inaccuracies may occur.
 
 ## 6. Limitation of Liability
 
 Dentiscope AI is provided on an “as is” and “as available” basis.
 
-To the maximum extent permitted by law, Dentiscope AI shall not be liable for:
+To the maximum extent permitted under applicable law, Dentiscope AI and its operators shall not be held liable for:
 
-* inaccurate AI results
-* misuse of information
-* indirect or consequential damages
-* loss of data
-* interruption of service
+• Inaccurate AI-generated results  
+• Misinterpretation or misuse of information  
+• Clinical, educational, academic, or professional decisions made using the application  
+• Service interruptions or technical failures  
+• Data loss  
+• Indirect, incidental, consequential, or special damages  
 
-Users assume responsibility for how they use information provided by the application.
+Use of the application is performed at the user’s own discretion and responsibility.
 
 ## 7. Privacy
 
-Your use of the application is also governed by the Dentiscope AI Privacy Policy.
+Use of Dentiscope AI is also governed by the Dentiscope AI Privacy Policy.
 
 ## 8. Children’s Use
 
@@ -81,11 +87,15 @@ Dentiscope AI is not specifically directed toward children under the age of 13.
 
 ## 9. Changes to These Terms
 
-We may update these Terms from time to time. Continued use of the application after updates constitutes acceptance of the revised Terms.
+We may revise or update these Terms of Use from time to time.
+
+Updated versions will become effective upon publication within the application or related services.
+
+Continued use of the application after updates constitutes acceptance of the revised Terms.
 
 ## 10. Contact
 
-For support or legal inquiries, contact:
+For support, legal inquiries, or questions regarding these Terms, you may contact:
 
-Dentiscope AI Support
-[dentiscope.ai@gmail.com](mailto:dentiscope.ai@gmail.com)
+Dentiscope AI Support  
+dentiscope.ai@gmail.com
