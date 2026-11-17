@@ -40,9 +40,11 @@ These services confirm that requests come from a genuine copy of the app running
 
 ## 4. Server and Network Logs
 
-When the app communicates with our server (for example to analyze a scan or to check whether an app update is required), our hosting infrastructure may record technical request information such as IP address, date and time, the requested endpoint and the response status.
+When the app communicates with our server (for example to analyze a scan or to check whether an app update is required), our server application does not write your IP address to its logs. Its logs contain only technical events such as the time of a request, whether the app integrity check passed and whether the request succeeded.
 
-This information is used only for security, abuse prevention (including limiting the number of requests per network address) and troubleshooting, and is kept only for a limited period in accordance with our hosting provider’s log retention.
+Your IP address is used in memory only, to limit the number of requests per network address and protect the service against abuse. It is not stored by our server application.
+
+Our hosting provider’s infrastructure may process standard technical request information, including IP addresses, as part of operating and protecting the service. This is kept only for a limited period in accordance with the hosting provider’s log retention.
 
 ## 5. Local Device Storage
 
