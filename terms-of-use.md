@@ -1,14 +1,14 @@
-# Dentiscope AI – Terms of Use
+# Denstrument AI – Terms of Use
 
-Last updated: May 2026
+Last updated: November 2026
 
-Welcome to Dentiscope AI. By accessing or using the Dentiscope AI mobile application (“Dentiscope AI”, “Dentiscope”, “the App”, “we”, “our”, or “us”), you agree to be bound by these Terms of Use.
+Welcome to Denstrument AI. By accessing or using the Denstrument AI mobile application (“Denstrument AI”, “Denstrument”, “the App”, “we”, “our”, or “us”), you agree to be bound by these Terms of Use. Denstrument AI was previously named Dentiscope AI.
 
 If you do not agree to these Terms, please do not use the application.
 
 ## 1. Educational Purpose Only
 
-Dentiscope AI is intended solely for educational, informational, and reference purposes.
+Denstrument AI is intended solely for educational, informational, and reference purposes.
 
 The application is not intended to provide:
 
@@ -23,7 +23,7 @@ Users are solely responsible for independently verifying information before rely
 
 ## 2. Acceptable Use
 
-You agree to use Dentiscope AI lawfully, responsibly, and in accordance with these Terms.
+You agree to use Denstrument AI lawfully, responsibly, and in accordance with these Terms.
 
 You may not:
 
@@ -38,9 +38,9 @@ Unauthorized use may result in suspension of access and possible legal action wh
 
 ## 3. Intellectual Property Rights
 
-Dentiscope AI, including but not limited to its branding, trademarks, interface design, source code, visual assets, AI systems, workflows, educational materials, datasets, and related technologies, is protected by applicable intellectual property and copyright laws.
+Denstrument AI, including but not limited to its branding, trademarks, interface design, source code, visual assets, AI systems, workflows, educational materials, datasets, and related technologies, is protected by applicable intellectual property and copyright laws.
 
-All rights not expressly granted remain reserved by Dentiscope AI.
+All rights not expressly granted remain reserved by Denstrument AI.
 
 No portion of the application may be copied, reproduced, modified, redistributed, or commercially used without prior written permission.
 
@@ -52,7 +52,7 @@ Subscription features, pricing, availability, limitations, and included function
 
 Purchases and billing are processed by third-party platform providers, including Google Play and the Apple App Store, and may be subject to their respective terms, billing policies, and refund rules.
 
-Dentiscope AI does not directly process or store payment card information.
+Denstrument AI does not directly process or store payment card information.
 
 ## 5. Availability and Service Changes
 
@@ -64,9 +64,9 @@ Temporary outages, maintenance periods, technical issues, or AI-related inaccura
 
 ## 6. Limitation of Liability
 
-Dentiscope AI is provided on an “as is” and “as available” basis.
+Denstrument AI is provided on an “as is” and “as available” basis.
 
-To the maximum extent permitted under applicable law, Dentiscope AI and its operators shall not be held liable for:
+To the maximum extent permitted under applicable law, Denstrument AI and its operators shall not be held liable for:
 
 • Inaccurate AI-generated results  
 • Misinterpretation or misuse of information  
@@ -79,11 +79,11 @@ Use of the application is performed at the user’s own discretion and responsib
 
 ## 7. Privacy
 
-Use of Dentiscope AI is also governed by the Dentiscope AI Privacy Policy.
+Use of Denstrument AI is also governed by the Denstrument AI Privacy Policy.
 
 ## 8. Children’s Use
 
-Dentiscope AI is not specifically directed toward children under the age of 13.
+Denstrument AI is not specifically directed toward children under the age of 13.
 
 ## 9. Changes to These Terms
 
@@ -97,5 +97,5 @@ Continued use of the application after updates constitutes acceptance of the rev
 
 For support, legal inquiries, or questions regarding these Terms, you may contact:
 
-Dentiscope AI Support  
-dentiscope.ai@gmail.com
+Denstrument AI Support  
+denstrumentai@gmail.com

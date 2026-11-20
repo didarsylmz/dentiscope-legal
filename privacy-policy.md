@@ -1,14 +1,14 @@
-# Dentiscope AI – Privacy Policy
+# Denstrument AI – Privacy Policy
 
 Last updated: November 2026
 
-Dentiscope AI (“Dentiscope”, “we”, “our”, or “us”) respects your privacy and is committed to protecting your information. This Privacy Policy explains how Dentiscope AI handles information when you use our mobile application and related services.
+Denstrument AI (“Denstrument”, “we”, “our”, or “us”) respects your privacy and is committed to protecting your information. This Privacy Policy explains how Denstrument AI handles information when you use our mobile application and related services. Denstrument AI was previously named Dentiscope AI.
 
-By using Dentiscope AI, you agree to the practices described in this Privacy Policy.
+By using Denstrument AI, you agree to the practices described in this Privacy Policy.
 
 ## 1. Information We Process
 
-Dentiscope AI is designed to minimize personal data collection.
+Denstrument AI is designed to minimize personal data collection.
 
 Users are not required to create an account in order to use the application.
 
@@ -34,7 +34,7 @@ If we ever introduce an optional feature that uses images to improve the service
 
 ## 3. Device and App Integrity Verification
 
-To protect the service against abuse and unauthorized or modified copies of the app, Dentiscope AI uses Firebase App Check, which relies on Google Play Integrity on Android and Apple App Attest on iOS.
+To protect the service against abuse and unauthorized or modified copies of the app, Denstrument AI uses Firebase App Check, which relies on Google Play Integrity on Android and Apple App Attest on iOS.
 
 These services confirm that requests come from a genuine copy of the app running on a genuine device. They process technical device and app information (such as device and operating system type, app identifier and an attestation token). This information is used only for security and is not used to identify you personally.
 
@@ -55,31 +55,36 @@ Certain application data is stored locally on your device in order to provide th
 • Cached premium access status  
 • Daily free-usage counters  
 • Usage streak information (used to decide when to show a rating request or a premium invitation)  
-• App preferences
+• Learning progress (unlocked cards and questions, self-test attempts, oral exam prep marks)  
+• Your analytics choice and other app preferences
 
-This information remains on your device and is not shared by Dentiscope AI.
+This information remains on your device and is not shared by Denstrument AI.
 
 ## 6. Premium Purchases and Subscriptions
 
-Dentiscope AI offers premium subscription features through Google Play and the Apple App Store.
+Denstrument AI offers premium subscription features through Google Play and the Apple App Store.
 
-Payment transactions are processed by the respective platform providers. Dentiscope AI does not collect or store payment card information.
+Payment transactions are processed by the respective platform providers. Denstrument AI does not collect or store payment card information.
 
 Subscription status is managed through RevenueCat, which receives purchase and subscription information from the app stores together with an anonymous app user identifier, so that premium access can be verified, restored and kept up to date. This identifier does not include your name or contact details.
 
 ## 7. Analytics and Crash Reporting
 
-Dentiscope AI uses Firebase Analytics and Firebase Crashlytics to improve application performance, reliability, and user experience.
+Denstrument AI uses Firebase Crashlytics to detect and fix crashes, and Firebase Analytics to understand which features are used.
+
+**Analytics only with your consent.** Firebase Analytics is turned off until you allow it. The first time you open the app, it asks whether you want to share usage data. If you decline, every feature keeps working the same. You can change your choice any time in Settings → Share usage data.
+
+**Crash reports** are always sent, because they are needed to keep the app working.
 
 These services may collect limited technical information, including:
 
 • Device model  
 • Operating system version  
 • App version  
-• Anonymous usage events  
+• Usage events, such as which screens are opened and quiz answers (Analytics, only with your consent)  
 • Crash diagnostics
 
-This information is used solely for improving the application and maintaining service stability.
+They do not include your name, e-mail address or location. This information is used solely for improving the application and maintaining service stability.
 
 ## 8. Ratings and App Updates
 
@@ -88,7 +93,7 @@ This information is used solely for improving the application and maintaining se
 
 ## 9. Service Providers
 
-We rely on the following service providers to operate Dentiscope AI. Each processes information only as needed to provide its service and under its own privacy policy:
+We rely on the following service providers to operate Denstrument AI. Each processes information only as needed to provide its service and under its own privacy policy:
 
 • Google (Firebase Analytics, Firebase Crashlytics, Firebase App Check, Google Play)  
 • Apple (App Store, App Attest)  
@@ -97,21 +102,23 @@ We rely on the following service providers to operate Dentiscope AI. Each proces
 
 These providers may process information in countries other than your own.
 
+Users in Türkiye: a Turkish privacy notice under the Personal Data Protection Law No. 6698 (KVKK) is available at [KVKK Aydınlatma Metni](kvkk-aydinlatma.html).
+
 ## 10. Educational Use Disclaimer
 
-Dentiscope AI is intended solely for educational, informational, and reference purposes.
+Denstrument AI is intended solely for educational, informational, and reference purposes.
 
 The application does not provide medical diagnosis, treatment recommendations, or professional clinical decision-making services.
 
 AI-generated predictions may occasionally be inaccurate.
 
-Dentiscope AI does not guarantee the accuracy, completeness, or reliability of AI-generated predictions or educational content.
+Denstrument AI does not guarantee the accuracy, completeness, or reliability of AI-generated predictions or educational content.
 
 Users should not rely solely on application results for clinical or professional decisions.
 
 ## 11. Limitation of Liability
 
-To the maximum extent permitted by applicable law, Dentiscope AI shall not be held responsible for any clinical, educational, professional, financial, or other decisions made based on information provided by the application.
+To the maximum extent permitted by applicable law, Denstrument AI shall not be held responsible for any clinical, educational, professional, financial, or other decisions made based on information provided by the application.
 
 Use of the application is at the user’s own discretion and responsibility.
 
@@ -123,13 +130,13 @@ However, no method of electronic transmission, storage, or internet-based commun
 
 ## 13. Children’s Privacy
 
-Dentiscope AI is not specifically directed toward children under the age of 13.
+Denstrument AI is not specifically directed toward children under the age of 13.
 
 If you believe that a child has provided personal information through the application, please contact us so appropriate action may be taken.
 
 ## 14. Data Retention
 
-Dentiscope AI is designed to minimize data retention.
+Denstrument AI is designed to minimize data retention.
 
 • Scan images submitted for AI recognition are processed temporarily and are deleted immediately after processing. They are not permanently stored on our servers.  
 • Server and network logs are kept only for a limited period, as described in Section 4.  
@@ -138,10 +145,10 @@ Dentiscope AI is designed to minimize data retention.
 
 ## 15. Data Deletion
 
-Because Dentiscope AI does not require users to create an account, we maintain very limited personal data.
+Because Denstrument AI does not require users to create an account, we maintain very limited personal data.
 
 • Data stored locally on your device is removed when you delete the app or clear its data.  
-• You may request deletion of any personal information associated with communications sent to Dentiscope AI (such as support emails) by contacting the address below.
+• You may request deletion of any personal information associated with communications sent to Denstrument AI (such as support emails) by contacting the address below.
 
 We will review and process legitimate deletion requests within a reasonable period in accordance with applicable laws.
 
@@ -157,7 +164,7 @@ Continued use of the application after changes become effective constitutes acce
 
 ## 17. Contact
 
-If you have questions regarding this Privacy Policy or Dentiscope AI, you may contact:
+If you have questions regarding this Privacy Policy or Denstrument AI, you may contact:
 
-Dentiscope AI Support  
-dentiscope.ai@gmail.com
+Denstrument AI Support  
+denstrumentai@gmail.com
