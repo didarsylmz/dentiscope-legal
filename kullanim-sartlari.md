@@ -1,6 +1,6 @@
 # Denstrument AI – Kullanım Şartları
 
-Son güncelleme: Kasım 2026
+Son güncelleme: 24 Kasım 2026
 
 Denstrument AI'a hoş geldiniz. Denstrument AI mobil uygulamasına ("Denstrument AI", "Denstrument", "Uygulama", "biz") erişerek veya uygulamayı kullanarak bu Kullanım Şartları'nı kabul etmiş olursunuz. Denstrument AI'ın önceki adı Dentiscope AI'dır.
 

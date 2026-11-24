@@ -1,6 +1,6 @@
 # Denstrument AI – Privacy Policy
 
-Last updated: November 2026
+Last updated: 24 November 2026
 
 Denstrument AI (“Denstrument”, “we”, “our”, or “us”) respects your privacy and is committed to protecting your information. This Privacy Policy explains how Denstrument AI handles information when you use our mobile application and related services. Denstrument AI was previously named Dentiscope AI.
 
@@ -114,7 +114,37 @@ These providers may process information in countries other than your own.
 
 Users in Türkiye: a Turkish privacy notice under the Personal Data Protection Law No. 6698 (KVKK) is available at [KVKK Aydınlatma Metni](kvkk-aydinlatma.html).
 
-## 10. Educational Use Disclaimer
+## 10. Users in the European Economic Area and the United Kingdom (GDPR)
+
+If you are in the European Economic Area (EEA) or the United Kingdom, the General Data Protection Regulation (GDPR) or the UK GDPR gives you the rights below. This section adds to the rest of this policy.
+
+**Controller.** The controller of your personal data is Didar Söylemezo, the developer of Denstrument AI (an individual based in Türkiye). Contact: denstrumentai@gmail.com.
+
+**Legal bases.** We process personal data on these legal bases:
+
+• To provide the scan feature, your subscription and premium content: performance of a contract with you (Article 6(1)(b) GDPR).  
+• To protect the service against abuse and modified copies of the app (App Check, rate limits), to detect bulk copying or leaks of premium content (daily limit, hashed records, watermark), to keep a record of which Terms you accepted, and to find and fix crashes (Crashlytics): our legitimate interests in running a secure, working service and protecting our content (Article 6(1)(f) GDPR). We keep this processing limited and do not use it to identify you.  
+• Usage analytics (Firebase Analytics): your consent (Article 6(1)(a) GDPR), which you can withdraw at any time in Settings → Share usage data. Withdrawing consent does not affect processing that took place before.  
+• To answer your support requests: our legitimate interest in helping you, or steps you ask for before a contract (Article 6(1)(b) and (f) GDPR).
+
+**Your rights.** You have the right to:
+
+• Access the personal data we hold about you  
+• Have inaccurate data corrected  
+• Have your data erased  
+• Restrict processing  
+• Receive your data in a portable format  
+• Object to processing based on our legitimate interests  
+• Withdraw your consent at any time, where processing is based on consent  
+• Lodge a complaint with the data protection authority in the country where you live or work, or where you believe an infringement took place
+
+To use these rights, write to denstrumentai@gmail.com. We will answer within one month. Because the app does not use accounts and we do not know who you are, we may ask you for information that helps us find the data linked to you (for example, details of your purchase). Much of your data is stored only on your device; you can remove it by deleting the app or clearing its data.
+
+**Transfers outside the EEA and the UK.** Our service providers (Section 9) and our server may process data in the United States and other countries outside the EEA and the UK. Where required, these transfers rely on the safeguards each provider offers, such as the EU–U.S. Data Privacy Framework or the European Commission’s Standard Contractual Clauses.
+
+**Automated decisions.** We do not make decisions based solely on automated processing that have legal or similarly significant effects on you. Scan results are educational predictions. The daily premium limit is a technical limit that resets every day; any suspension of premium access under the Terms of Use is decided by a person and can be reviewed if you contact us.
+
+## 11. Educational Use Disclaimer
 
 Denstrument AI is intended solely for educational, informational, and reference purposes.
 
@@ -126,25 +156,25 @@ Denstrument AI does not guarantee the accuracy, completeness, or reliability of 
 
 Users should not rely solely on application results for clinical or professional decisions.
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
 To the maximum extent permitted by applicable law, Denstrument AI shall not be held responsible for any clinical, educational, professional, financial, or other decisions made based on information provided by the application.
 
 Use of the application is at the user’s own discretion and responsibility.
 
-## 12. Data Security
+## 13. Data Security
 
 We take reasonable technical and organizational measures intended to help protect information processed by the application, including encrypted connections and device and app integrity verification.
 
 However, no method of electronic transmission, storage, or internet-based communication can be guaranteed to be completely secure.
 
-## 13. Children’s Privacy
+## 14. Children’s Privacy
 
 Denstrument AI is not specifically directed toward children under the age of 13.
 
 If you believe that a child has provided personal information through the application, please contact us so appropriate action may be taken.
 
-## 14. Data Retention
+## 15. Data Retention
 
 Denstrument AI is designed to minimize data retention.
 
@@ -155,7 +185,7 @@ Denstrument AI is designed to minimize data retention.
 • Scan history, favorites, cached premium status, usage counters and application preferences are stored locally on your device.  
 • Analytics, crash reporting and subscription information may be retained by our service providers only for as long as necessary to provide their services, in accordance with their own privacy policies.
 
-## 15. Data Deletion
+## 16. Data Deletion
 
 Because Denstrument AI does not require users to create an account, we maintain very limited personal data.
 
@@ -166,7 +196,7 @@ We will review and process legitimate deletion requests within a reasonable peri
 
 Scan images are deleted immediately after processing. Therefore, no deletion request is required for scan images.
 
-## 16. Changes to This Policy
+## 17. Changes to This Policy
 
 We may update this Privacy Policy from time to time.
 
@@ -174,7 +204,7 @@ Updated versions will be reflected by the "Last updated" date shown at the top o
 
 Continued use of the application after changes become effective constitutes acceptance of the updated policy.
 
-## 17. Contact
+## 18. Contact
 
 If you have questions regarding this Privacy Policy or Denstrument AI, you may contact:
 

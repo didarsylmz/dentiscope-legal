@@ -1,6 +1,6 @@
 # Denstrument AI – Terms of Use
 
-Last updated: November 2026
+Last updated: 24 November 2026
 
 Welcome to Denstrument AI. By accessing or using the Denstrument AI mobile application (“Denstrument AI”, “Denstrument”, “the App”, “we”, “our”, or “us”), you agree to be bound by these Terms of Use. Denstrument AI was previously named Dentiscope AI.
 

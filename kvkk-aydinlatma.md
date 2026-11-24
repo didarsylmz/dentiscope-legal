@@ -1,6 +1,6 @@
 # Denstrument AI – KVKK Aydınlatma Metni
 
-Son güncelleme: Kasım 2026
+Son güncelleme: 24 Kasım 2026
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Denstrument AI mobil uygulamasını kullanırken kişisel verilerinizin nasıl işlendiği konusunda sizi bilgilendirmek için hazırlanmıştır. Denstrument AI'ın önceki adı Dentiscope AI'dır.
 
