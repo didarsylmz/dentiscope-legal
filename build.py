@@ -18,6 +18,7 @@ PAGES = {
     "privacy-policy.md": "en",
     "terms-of-use.md": "en",
     "kvkk-aydinlatma.md": "tr",
+    "kullanim-sartlari.md": "tr",
 }
 
 STYLE = """

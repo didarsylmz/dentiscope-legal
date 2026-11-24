@@ -6,6 +6,8 @@ Welcome to Denstrument AI. By accessing or using the Denstrument AI mobile appli
 
 If you do not agree to these Terms, please do not use the application.
 
+Users in Türkiye: a Turkish version is available at [Kullanım Şartları](kullanim-sartlari.html). For users in Türkiye, the Turkish version prevails if the two differ.
+
 ## 1. Educational Purpose Only
 
 Denstrument AI is intended solely for educational, informational, and reference purposes.
@@ -44,15 +46,54 @@ All rights not expressly granted remain reserved by Denstrument AI.
 
 No portion of the application may be copied, reproduced, modified, redistributed, or commercially used without prior written permission.
 
-## 4. Premium Features and Subscriptions
+## 4. Premium Subscription and Premium Content
 
-Certain application features may require a premium subscription or purchase.
+Premium section version: 2026-11-23. Before you buy a subscription, the app asks you to confirm that you have read and accept these Terms, including this section. The version and the time of your confirmation are stored with your anonymous subscription record (see the Privacy Policy).
 
-Subscription features, pricing, availability, limitations, and included functionality may change over time without prior notice.
+**4.1 Subscription and billing**
 
-Purchases and billing are processed by third-party platform providers, including Google Play and the Apple App Store, and may be subject to their respective terms, billing policies, and refund rules.
+Certain features require a premium subscription. Purchases, billing, renewals, cancellations and refunds are handled by Google Play or the Apple App Store under their own terms and refund rules. You can cancel at any time in your store account settings; access continues until the end of the paid period. Denstrument AI does not process or store payment card information.
 
-Denstrument AI does not directly process or store payment card information.
+Subscription features, pricing and included content may change over time. Changes to the price of an active subscription are made through the app store, which informs you as its rules require.
+
+**4.2 How premium content is delivered**
+
+From app version 1.3.0, premium content is downloaded from our server piece by piece as you open it, after your subscription is confirmed. The first time you open a piece you need an internet connection. Downloaded pieces are stored encrypted on your device so they also open offline, are refreshed from time to time and are deleted from your device when your subscription ends.
+
+Learning content opens in daily portions, for free and premium users alike, so that it can be studied step by step. To protect the content, the number of different premium pieces an account can download per day is limited; normal use does not reach this limit.
+
+**4.3 Personal licence**
+
+Your subscription gives you a personal, non-exclusive, non-transferable and revocable licence to view premium content in the app for your own study, for as long as your subscription is active. It does not transfer any ownership or copyright.
+
+**4.4 What is not allowed**
+
+Premium content, including instrument tips, comparison tables and quiz explanations, is protected by copyright. You may not:
+
+• Copy, photograph, screenshot, screen-record or transcribe premium content in order to share it  
+• Share, publish, sell, upload or distribute premium content in any form, including in groups, courses, notes, documents or websites  
+• Share your subscription or account access with others  
+• Download content in bulk or by automated means (scripts, bots, scraping) or bypass the daily limit  
+• Bypass, disable or interfere with content protections, encryption, screen protection or the watermark  
+• Reverse engineer the app or its server to extract content
+
+**4.5 Content protection**
+
+To protect premium content, the app uses protection measures, including:
+
+• Screen protection on premium screens. On Android, screenshots and screen recordings of these screens are blocked by the operating system. On iOS, premium content is hidden while the screen is recorded, and screenshots may appear blank. These measures depend on the operating system and do not work on every device or in every situation.  
+• A faint code shown on premium content. It is derived from your anonymous subscription identifier (it does not contain your name or contact details) and helps us find the source of leaked copies.  
+• Technical checks on our server, such as the daily limit and records of unusual download volumes.
+
+**4.6 Misuse**
+
+If we have reasonable grounds to believe that an account breaks Section 4.4 (for example bulk downloading or publishing premium content), we may limit or suspend that account's access to premium content and, where appropriate, take legal action. If you believe this was done in error, contact us at the address below and we will review it. Refunds are handled by the app store under its own rules.
+
+**4.7 Educational content**
+
+Premium content is educational material. It is not clinical advice and does not replace professional training, textbooks or the judgement of a qualified professional (see Section 1).
+
+Nothing in these Terms limits the rights you have as a consumer under the law that applies to you.
 
 ## 5. Availability and Service Changes
 

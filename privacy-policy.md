@@ -44,6 +44,8 @@ When the app communicates with our server (for example to analyze a scan or to c
 
 Your IP address is used in memory only, to limit the number of requests per network address and protect the service against abuse. It is not stored by our server application.
 
+**Premium content requests (from app version 1.3.0).** When a subscriber opens premium content, the app sends our server the anonymous app user identifier (see Section 6) so that the subscription can be checked. Our server does not write this identifier to its logs; it logs only the type of content and whether the request succeeded. To enforce the daily limit, it counts requests in memory under a salted, one-way hash of the identifier, and these counts are cleared every day. If an account downloads an unusually large amount of premium content, reaches the daily limit or is suspended, the log records only a short part of that hash, so that bulk copying can be detected.
+
 Our hosting provider’s infrastructure may process standard technical request information, including IP addresses, as part of operating and protecting the service. This is kept only for a limited period in accordance with the hosting provider’s log retention.
 
 ## 5. Local Device Storage
@@ -56,7 +58,9 @@ Certain application data is stored locally on your device in order to provide th
 • Daily free-usage counters  
 • Usage streak information (used to decide when to show a rating request or a premium invitation)  
 • Learning progress (unlocked cards and questions, self-test attempts, oral exam prep marks)  
-• Your analytics choice and other app preferences
+• Your analytics choice and other app preferences  
+• Premium content you have opened (from app version 1.3.0), stored encrypted with a key kept in the device’s secure storage (Android Keystore / iOS Keychain). It is refreshed after 7 days, removed after 30 days, and deleted when your subscription ends.  
+• Technical settings sent by our server (for example whether a screen protection feature is turned on)
 
 This information remains on your device and is not shared by Denstrument AI.
 
@@ -67,6 +71,12 @@ Denstrument AI offers premium subscription features through Google Play and the 
 Payment transactions are processed by the respective platform providers. Denstrument AI does not collect or store payment card information.
 
 Subscription status is managed through RevenueCat, which receives purchase and subscription information from the app stores together with an anonymous app user identifier, so that premium access can be verified, restored and kept up to date. This identifier does not include your name or contact details.
+
+Our server also uses this anonymous identifier to check your subscription with RevenueCat before it sends premium content or processes a scan. If RevenueCat cannot be reached for a short time, a subscription confirmed within the previous 24 hours is accepted, so that a brief outage does not interrupt access.
+
+**Terms confirmation.** Before a purchase, the app asks you to confirm the Terms of Use, including the Premium section. The version of the Terms and the time of your confirmation are stored as attributes of your anonymous subscription record at RevenueCat, so that we can show which Terms applied to your subscription.
+
+**Content watermark.** Premium content shows a faint short code derived from a one-way hash of your anonymous identifier. It cannot be turned back into the identifier by others, and we use it only to find the source of leaked premium content.
 
 ## 7. Analytics and Crash Reporting
 
@@ -81,7 +91,7 @@ These services may collect limited technical information, including:
 • Device model  
 • Operating system version  
 • App version  
-• Usage events, such as which screens are opened and quiz answers (Analytics, only with your consent)  
+• Usage events, such as which screens are opened, quiz answers and whether premium content was loaded from the device or the server (Analytics, only with your consent)  
 • Crash diagnostics
 
 They do not include your name, e-mail address or location. This information is used solely for improving the application and maintaining service stability.
@@ -139,7 +149,9 @@ If you believe that a child has provided personal information through the applic
 Denstrument AI is designed to minimize data retention.
 
 • Scan images submitted for AI recognition are processed temporarily and are deleted immediately after processing. They are not permanently stored on our servers.  
-• Server and network logs are kept only for a limited period, as described in Section 4.  
+• Server and network logs are kept only for a limited period, as described in Section 4. Daily premium request counts are kept in memory and cleared every day.  
+• Premium content stored on your device is deleted after 30 days at the latest, or when your subscription ends.  
+• Your Terms confirmation is kept with your anonymous subscription record at RevenueCat for as long as that record exists.  
 • Scan history, favorites, cached premium status, usage counters and application preferences are stored locally on your device.  
 • Analytics, crash reporting and subscription information may be retained by our service providers only for as long as necessary to provide their services, in accordance with their own privacy policies.
 

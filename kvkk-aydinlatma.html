@@ -34,15 +34,20 @@
 <li><strong>Tarama fotoğrafı:</strong> Taradığınız alet fotoğrafı, tanıma için şifreli bağlantıyla sunucumuza gönderilir ve işlem biter bitmez silinir. Saklanmaz, yapay zekâ eğitiminde kullanılmaz.</li>
 <li><strong>İşlem güvenliği verileri:</strong> IP adresiniz, kötüye kullanımı önlemek amacıyla yalnızca sunucu belleğinde, istek sayısını sınırlamak için kullanılır ve sunucu uygulamamız tarafından kaydedilmez. Cihazın ve uygulamanın gerçek olduğunu doğrulamak için cihaz ve uygulama bilgileri (Firebase App Check, Google Play Integrity, Apple App Attest) işlenir.</li>
 <li><strong>Abonelik verileri:</strong> Premium satın alımlarınız mağaza (App Store, Google Play) tarafından işlenir. Abonelik durumunuz, adınızı veya iletişim bilgilerinizi içermeyen anonim bir uygulama kullanıcı kimliğiyle RevenueCat üzerinden doğrulanır. Kart bilgilerinizi biz görmeyiz.</li>
+<li><strong>Premium içerik istekleri (uygulamanın 1.3.0 sürümünden itibaren):</strong> Premium içerik açtığınızda, aboneliğinizin RevenueCat üzerinden doğrulanabilmesi için anonim uygulama kullanıcı kimliğiniz sunucumuza gönderilir. Sunucumuz bu kimliği kayıtlara yazmaz; yalnızca içerik türünü ve isteğin sonucunu kaydeder. Günlük sınırı uygulamak için istek sayıları, kimliğin tuzlanmış ve geri döndürülemez bir özeti (hash) altında yalnızca bellekte tutulur ve her gün sıfırlanır. Olağan dışı miktarda içerik indiren, günlük sınıra ulaşan veya askıya alınan hesaplar için kayıtlara bu özetin yalnızca kısa bir parçası yazılır.</li>
+<li><strong>Kullanım Şartları onayı:</strong> Satın almadan önce Kullanım Şartları'nı (Premium bölümü dahil) onaylamanız istenir. Onayladığınız şartların sürümü ve onay zamanı, anonim abonelik kaydınıza RevenueCat'te özellik olarak eklenir.</li>
+<li><strong>İçerik filigranı:</strong> Premium içerikte, anonim kimliğinizin geri döndürülemez özetinden türetilen soluk, kısa bir kod gösterilir. Bu kod yalnızca sızdırılan premium içeriğin kaynağını bulmak için kullanılır.</li>
 <li><strong>Hata raporları:</strong> Uygulama çöktüğünde cihaz modeli, işletim sistemi sürümü, uygulama sürümü ve hata ayrıntıları Firebase Crashlytics'e gönderilir.</li>
 <li><strong>Kullanım verileri (yalnızca izin verirseniz):</strong> Hangi ekranların açıldığı, test cevapları gibi kullanım olayları Firebase Analytics ile ölçülür. Bu ölçüm, siz izin verene kadar kapalıdır.</li>
 <li><strong>Destek yazışmaları:</strong> Bize e-posta gönderirseniz e-posta adresiniz ve mesajınız.</li>
 </ul>
-<p>Favoriler, tarama geçmişi, öğrenme ilerlemesi ve tercihleriniz yalnızca cihazınızda saklanır; bize gönderilmez. </p>
+<p>Favoriler, tarama geçmişi, öğrenme ilerlemesi ve tercihleriniz yalnızca cihazınızda saklanır; bize gönderilmez. Açtığınız premium içerik de cihazınızda, anahtarı cihazın güvenli deposunda (Android Keystore / iOS Keychain) tutulan bir şifrelemeyle saklanır; en geç 30 gün sonra veya aboneliğiniz bittiğinde silinir. </p>
 <h2>3. Hangi amaçlarla ve hangi hukuki sebeplere dayanarak?</h2>
 <ul>
 <li>Alet tanıma hizmetini sunmak ve premium aboneliği yönetmek: bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması (KVKK m. 5/2-c).</li>
-<li>Hizmeti kötüye kullanıma ve sahte uygulamalara karşı korumak, hataları tespit edip düzeltmek: temel hak ve özgürlüklerinize zarar vermemek kaydıyla meşru menfaatimiz (KVKK m. 5/2-f).</li>
+<li>Premium içeriği abonelere sunmak: bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması (KVKK m. 5/2-c).</li>
+<li>Hizmeti kötüye kullanıma ve sahte uygulamalara karşı korumak, premium içeriğin toplu kopyalanmasını ve sızdırılmasını tespit etmek (günlük sınır, özet kayıtlar, filigran), hataları tespit edip düzeltmek: temel hak ve özgürlüklerinize zarar vermemek kaydıyla meşru menfaatimiz (KVKK m. 5/2-f).</li>
+<li>Aboneliğinize hangi Kullanım Şartları'nın uygulandığını gösterebilmek (onay kaydı): bir hakkın tesisi, kullanılması veya korunması (KVKK m. 5/2-e).</li>
 <li>Uygulamanın hangi özelliklerinin kullanıldığını ölçerek geliştirmek (Firebase Analytics): açık rızanız (KVKK m. 5/1).</li>
 <li>Destek taleplerinizi yanıtlamak: bir hakkın tesisi, kullanılması veya korunması ve meşru menfaat (KVKK m. 5/2-e, f).</li>
 </ul>
@@ -53,14 +58,14 @@
 <ul>
 <li>Google LLC (Firebase Analytics, Firebase Crashlytics, Firebase App Check, Google Play): ölçüm, hata raporu, uygulama doğrulama ve satın alma.</li>
 <li>Apple Inc. (App Store, App Attest): uygulama doğrulama ve satın alma.</li>
-<li>RevenueCat, Inc.: abonelik durumunun doğrulanması.</li>
-<li>Render Services, Inc.: tanıma sunucusunun barındırılması.</li>
+<li>RevenueCat, Inc.: abonelik durumunun doğrulanması ve Kullanım Şartları onay kaydının saklanması.</li>
+<li>Render Services, Inc.: tanıma ve premium içerik sunucusunun barındırılması.</li>
 </ul>
 <p>Bu sağlayıcıların sunucuları Türkiye dışında (ağırlıklı olarak ABD ve Avrupa'da) bulunabilir. Bu nedenle verileriniz yurt dışına aktarılabilir. Yurt dışına aktarım, KVKK'nın 9. maddesinde öngörülen şartlara uygun olarak yapılır. Kullanım verisi ölçümü için verdiğiniz açık rıza, bu ölçüme ilişkin yurt dışı aktarımını da kapsar. </p>
 <h2>6. Verilerin toplanma yöntemi</h2>
 <p>Veriler, uygulamayı kullanmanız sırasında uygulama, sunucumuz ve yukarıdaki hizmet sağlayıcıların yazılım bileşenleri aracılığıyla otomatik yollarla; destek yazışmalarında ise e-posta yoluyla toplanır. </p>
 <h2>7. Saklama süresi</h2>
-<p>Tarama fotoğrafları işlem biter bitmez silinir. Diğer veriler, ilgili hizmet sağlayıcının kendi saklama süreleri boyunca ve amaç için gerekli olduğu sürece saklanır. Cihazınızdaki veriler uygulamayı silmenizle birlikte silinir. </p>
+<p>Tarama fotoğrafları işlem biter bitmez silinir. Günlük premium istek sayıları yalnızca bellekte tutulur ve her gün sıfırlanır. Cihazınızdaki şifreli premium içerik en geç 30 gün sonra veya aboneliğiniz bittiğinde silinir. Kullanım Şartları onay kaydı, RevenueCat'teki anonim abonelik kaydınız var olduğu sürece saklanır. Diğer veriler, ilgili hizmet sağlayıcının kendi saklama süreleri boyunca ve amaç için gerekli olduğu sürece saklanır. Cihazınızdaki veriler uygulamayı silmenizle birlikte silinir. </p>
 <h2>8. KVKK'nın 11. maddesi kapsamındaki haklarınız</h2>
 <p>Veri sorumlusuna başvurarak şu haklarınızı kullanabilirsiniz: </p>
 <ul>
@@ -76,6 +81,6 @@
 </ul>
 <h2>9. Başvuru</h2>
 <p>Taleplerinizi denstrumentai@gmail.com adresine e-posta ile veya Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'de sayılan diğer yöntemlerle iletebilirsiniz. Başvurunuz en geç 30 gün içinde ücretsiz olarak sonuçlandırılır. </p>
-<p>Ayrıntılı bilgi için İngilizce <a href="privacy-policy.html">Gizlilik Politikası</a> ve <a href="terms-of-use.html">Kullanım Şartları</a> sayfalarına bakabilirsiniz. </p>
+<p>Ayrıntılı bilgi için <a href="kullanim-sartlari.html">Kullanım Şartları</a> ve İngilizce <a href="privacy-policy.html">Gizlilik Politikası</a> sayfalarına bakabilirsiniz. </p>
 </body>
 </html>
